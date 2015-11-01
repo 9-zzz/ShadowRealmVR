@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 8cf56904eadfad94dac0817940cebe55
+timeCreated: 1446384514
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BlueEyes_chin
+    100004: BlueEyes_GlobalSRT
+    100006: BlueEyes_Head
+    100008: BlueEyes_L_Wing1
+    100010: BlueEyes_L_Wing2
+    100012: BlueEyes_L_Wing3
+    100014: BlueEyes_L_Wing4
+    100016: BlueEyes_L_Wing5
+    100018: BlueEyes_L_Wing8
+    100020: BlueEyes_L_Wing9
+    100022: BlueEyes_LBicep
+    100024: BlueEyes_LFootBone1
+    100026: BlueEyes_LForearm
+    100028: BlueEyes_LHand
+    100030: BlueEyes_LShin
+    100032: BlueEyes_LShoulder
+    100034: BlueEyes_LThigh
+    100036: BlueEyes_Lumbar1
+    100038: BlueEyes_Lumbar2
+    100040: BlueEyes_Lumbar3
+    100042: BlueEyes_Neck
+    100044: BlueEyes_Neck1
+    100046: BlueEyes_Neck2
+    100048: BlueEyes_Neck3
+    100050: BlueEyes_R_Wing1
+    100052: BlueEyes_R_Wing2
+    100054: BlueEyes_R_Wing3
+    100056: BlueEyes_R_Wing4
+    100058: BlueEyes_R_Wing5
+    100060: BlueEyes_R_Wing8
+    100062: BlueEyes_R_Wing9
+    100064: BlueEyes_RBicep
+    100066: BlueEyes_RFootBone1
+    100068: BlueEyes_RForearm
+    100070: BlueEyes_RHand
+    100072: BlueEyes_RShin
+    100074: BlueEyes_RShoulder
+    100076: BlueEyes_RThigh
+    100078: BlueEyes_tail1
+    100080: BlueEyes_tail2
+    100082: BlueEyes_tail3
+    100084: BlueEyes_tail4
+    100086: BlueEyes_tail5
+    100088: BlueEyes_UpperBody
+    100090: EFF_CNT
+    100092: M001_BlueEyes_joint
+    100094: M001_BlueEyes_Root
+    100096: m31_BlueE
+    100098: mesh0000
+    100100: mesh0001
+    400000: //RootNode
+    400002: BlueEyes_chin
+    400004: BlueEyes_GlobalSRT
+    400006: BlueEyes_Head
+    400008: BlueEyes_L_Wing1
+    400010: BlueEyes_L_Wing2
+    400012: BlueEyes_L_Wing3
+    400014: BlueEyes_L_Wing4
+    400016: BlueEyes_L_Wing5
+    400018: BlueEyes_L_Wing8
+    400020: BlueEyes_L_Wing9
+    400022: BlueEyes_LBicep
+    400024: BlueEyes_LFootBone1
+    400026: BlueEyes_LForearm
+    400028: BlueEyes_LHand
+    400030: BlueEyes_LShin
+    400032: BlueEyes_LShoulder
+    400034: BlueEyes_LThigh
+    400036: BlueEyes_Lumbar1
+    400038: BlueEyes_Lumbar2
+    400040: BlueEyes_Lumbar3
+    400042: BlueEyes_Neck
+    400044: BlueEyes_Neck1
+    400046: BlueEyes_Neck2
+    400048: BlueEyes_Neck3
+    400050: BlueEyes_R_Wing1
+    400052: BlueEyes_R_Wing2
+    400054: BlueEyes_R_Wing3
+    400056: BlueEyes_R_Wing4
+    400058: BlueEyes_R_Wing5
+    400060: BlueEyes_R_Wing8
+    400062: BlueEyes_R_Wing9
+    400064: BlueEyes_RBicep
+    400066: BlueEyes_RFootBone1
+    400068: BlueEyes_RForearm
+    400070: BlueEyes_RHand
+    400072: BlueEyes_RShin
+    400074: BlueEyes_RShoulder
+    400076: BlueEyes_RThigh
+    400078: BlueEyes_tail1
+    400080: BlueEyes_tail2
+    400082: BlueEyes_tail3
+    400084: BlueEyes_tail4
+    400086: BlueEyes_tail5
+    400088: BlueEyes_UpperBody
+    400090: EFF_CNT
+    400092: M001_BlueEyes_joint
+    400094: M001_BlueEyes_Root
+    400096: m31_BlueE
+    400098: mesh0000
+    400100: mesh0001
+    4300000: mesh0000
+    4300002: mesh0001
+    9500000: //RootNode
+    13700000: mesh0000
+    13700002: mesh0001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
