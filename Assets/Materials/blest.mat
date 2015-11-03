@@ -6,11 +6,11 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: sb1
-  m_Shader: {fileID: 106, guid: 0000000000000000f000000000000000, type: 0}
-  m_ShaderKeywords: _SUNDISK_HIGH_QUALITY
-  m_LightmapFlags: 5
-  m_CustomRenderQueue: 1000
+  m_Name: blest
+  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: _EMISSION
+  m_LightmapFlags: 1
+  m_CustomRenderQueue: -1
   stringTagMap: {}
   m_SavedProperties:
     serializedVersion: 2
@@ -98,7 +98,7 @@ Material:
       data:
         first:
           name: _Glossiness
-        second: .5
+        second: 0
       data:
         first:
           name: _Metallic
@@ -127,36 +127,12 @@ Material:
         first:
           name: _Mode
         second: 0
-      data:
-        first:
-          name: _Exposure
-        second: .5
-      data:
-        first:
-          name: _SunDisk
-        second: 2
-      data:
-        first:
-          name: _SunSize
-        second: 0
-      data:
-        first:
-          name: _AtmosphereThickness
-        second: .74000001
     m_Colors:
       data:
         first:
           name: _EmissionColor
-        second: {r: 0, g: 0, b: 0, a: 1}
+        second: {r: .117647052, g: 1, b: .853955269, a: 1}
       data:
         first:
           name: _Color
-        second: {r: 1, g: 1, b: 1, a: 1}
-      data:
-        first:
-          name: _GroundColor
-        second: {r: .235294104, g: .043252591, b: .0949051753, a: 1}
-      data:
-        first:
-          name: _SkyTint
-        second: {r: .223529428, g: .00392156886, b: .321568638, a: 1}
+        second: {r: .131055504, g: .109212816, b: .742647052, a: 1}
